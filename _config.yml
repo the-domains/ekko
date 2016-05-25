@@ -1,0 +1,28 @@
+name: Ekko
+favicon: null
+layout_spectrum: 0.2057544132694602
+typography_spectrum: 0.6937670384068042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4791448935866356
+  lightness: 0.10733913560397923
+  saturation: 0.2975325742736459
+  rhythmicContrast: 0.5157703936565667
+purpose: []
