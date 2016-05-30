@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: '"...plants should become part of our society as well as self-reliant, and be given the ability to autonomously interact and walk with us.” '
-datePublished: '2016-05-29T22:12:11.840Z'
-dateModified: '2016-05-29T22:12:00.264Z'
+description: '"...plants should become part of our society as well as self-reliant, and be given the ability to autonomously interact and walk with us.”'
+datePublished: '2016-05-30T08:30:59.736Z'
+dateModified: '2016-05-29T22:12:14.041Z'
 title: "In a couple of years we'll walk our geranium..."
 author: []
 sourcePath: _posts/2016-05-29-in-a-couple-of-years-well-walk-our-geranium.md
